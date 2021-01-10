@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebase-react-todo-app/static/css/main.0fadbac2.chunk.css",
+    "main.js": "/firebase-react-todo-app/static/js/main.8f734c0f.chunk.js",
+    "main.js.map": "/firebase-react-todo-app/static/js/main.8f734c0f.chunk.js.map",
+    "runtime-main.js": "/firebase-react-todo-app/static/js/runtime-main.03819b1d.js",
+    "runtime-main.js.map": "/firebase-react-todo-app/static/js/runtime-main.03819b1d.js.map",
+    "static/js/2.f2441c3b.chunk.js": "/firebase-react-todo-app/static/js/2.f2441c3b.chunk.js",
+    "static/js/2.f2441c3b.chunk.js.map": "/firebase-react-todo-app/static/js/2.f2441c3b.chunk.js.map",
+    "static/js/3.273f8a5b.chunk.js": "/firebase-react-todo-app/static/js/3.273f8a5b.chunk.js",
+    "static/js/3.273f8a5b.chunk.js.map": "/firebase-react-todo-app/static/js/3.273f8a5b.chunk.js.map",
+    "index.html": "/firebase-react-todo-app/index.html",
+    "static/css/main.0fadbac2.chunk.css.map": "/firebase-react-todo-app/static/css/main.0fadbac2.chunk.css.map",
+    "static/js/2.f2441c3b.chunk.js.LICENSE.txt": "/firebase-react-todo-app/static/js/2.f2441c3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03819b1d.js",
+    "static/js/2.f2441c3b.chunk.js",
+    "static/css/main.0fadbac2.chunk.css",
+    "static/js/main.8f734c0f.chunk.js"
+  ]
+}
